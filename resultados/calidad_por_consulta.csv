@@ -1,0 +1,77 @@
+sistema,consulta,tipo,nDCG@5,MRR,R@5,P@5,devueltos,top5,ms_1usuario
+BM25,EZLN,lexica,0.8609101556836468,1.0,0.3333333333333333,0.2,1,d43,4.373500000042441
+BM25,UNACH,lexica,1.0,1.0,1.0,0.4,2,d53 d44,2.5167000000010376
+BM25,Montes Azules,lexica,1.0,1.0,1.0,0.2,5,d18 d05 d15 d04 d27,3.287500000055843
+BM25,Tren Maya,lexica,1.0,1.0,1.0,0.2,10,d51 d38 d08 d07 d06,4.87390000000687
+BM25,Coffea arabica denominación de origen,lexica,1.0,1.0,1.0,0.2,10,d47 d42 d52 d36 d30,3.904799999986608
+BM25,Bonampak y Yaxchilán,lexica,1.0,1.0,1.0,0.4,2,d06 d07,3.194099999973332
+BM25,temblor muy fuerte en la costa del Pacífico,semantica,1.0,1.0,1.0,0.2,10,d29 d21 d30 d47 d19,3.7393999999721927
+BM25,montaña que explotó y dejó pueblos bajo la ceniza,semantica,0.9173194127129571,1.0,0.5,0.2,10,d21 d03 d18 d19 d37,5.6681999999455
+BM25,felino con manchas más grande del continente,semantica,0.43067655807339306,0.25,1.0,0.2,5,d28 d32 d26 d25 d08,4.170299999941562
+BM25,enfermedades que contagian los mosquitos,semantica,1.0,1.0,1.0,0.4,4,d32 d31 d54 d45,4.6727999999802705
+BM25,computadoras que aprenden a partir de ejemplos,semantica,0.7300423770020531,1.0,1.0,0.8,10,d54 d57 d60 d55 d56,5.318299999998999
+BM25,aguardiente artesanal usado en rituales indígenas,semantica,1.0,1.0,1.0,0.2,10,d41 d58 d05 d38 d37,4.8127000000022235
+BM25,zonas arqueológicas mayas en la selva,mixta,0.7588991761691757,1.0,0.6666666666666666,0.8,10,d02 d38 d06 d08 d17,4.081999999925756
+BM25,pueblos indígenas de los Altos de Chiapas,mixta,1.0,1.0,1.0,0.6,10,d37 d38 d03 d39 d52,4.009699999983241
+BM25,presas hidroeléctricas en el río Grijalva,mixta,0.9594535145926796,1.0,1.0,0.6,10,d50 d01 d22 d23 d11,4.930800000011004
+BM25,bebidas tradicionales de maíz y cacao,mixta,1.0,1.0,1.0,0.6,9,d46 d41 d48 d35 d50,4.236999999989166
+BM25,escritores chiapanecos,mixta,1.0,1.0,1.0,0.4,8,d44 d45 d01 d39 d15,3.405400000019654
+BM25,ave de plumaje verde sagrada para los mayas,mixta,1.0,1.0,1.0,0.4,10,d24 d27 d19 d16 d07,3.2732000000805783
+BM25,tala de árboles y pérdida de bosques,mixta,0.8609101556836468,1.0,0.3333333333333333,0.2,10,d33 d26 d60 d48 d04,3.3415999999988344
+Embeddings,EZLN,lexica,0.8609101556836468,1.0,0.3333333333333333,0.2,10,d43 d50 d14 d40 d19,28.00739999997859
+Embeddings,UNACH,lexica,0.9173194127129571,1.0,0.5,0.2,10,d53 d06 d14 d07 d23,21.855299999970157
+Embeddings,Montes Azules,lexica,0.5,0.3333333333333333,1.0,0.2,10,d05 d04 d18 d01 d22,17.3562000001084
+Embeddings,Tren Maya,lexica,1.0,1.0,1.0,0.2,10,d51 d38 d07 d06 d16,22.223100000019258
+Embeddings,Coffea arabica denominación de origen,lexica,0.43067655807339306,0.25,1.0,0.2,10,d52 d48 d42 d47 d40,17.38450000004832
+Embeddings,Bonampak y Yaxchilán,lexica,1.0,1.0,1.0,0.4,10,d06 d07 d10 d42 d36,22.53330000007736
+Embeddings,temblor muy fuerte en la costa del Pacífico,semantica,0.6309297535714575,0.5,1.0,0.2,10,d21 d29 d30 d20 d17,21.64530000004561
+Embeddings,montaña que explotó y dejó pueblos bajo la ceniza,semantica,0.5787641110093001,0.5,0.5,0.2,10,d30 d21 d02 d34 d17,23.80709999999908
+Embeddings,felino con manchas más grande del continente,semantica,0.6309297535714575,0.5,1.0,0.2,10,d28 d25 d27 d26 d13,20.01590000008946
+Embeddings,enfermedades que contagian los mosquitos,semantica,1.0,1.0,1.0,0.4,10,d31 d32 d14 d13 d27,20.004700000072262
+Embeddings,computadoras que aprenden a partir de ejemplos,semantica,0.8595547154669839,1.0,1.0,0.8,10,d60 d55 d54 d57 d56,18.072100000040336
+Embeddings,aguardiente artesanal usado en rituales indígenas,semantica,0.0,0.16666666666666666,0.0,0.0,10,d38 d35 d36 d39 d46,23.98419999997259
+Embeddings,zonas arqueológicas mayas en la selva,mixta,0.6345898229920981,1.0,0.6666666666666666,0.8,10,d16 d06 d02 d38 d08,22.080599999981132
+Embeddings,pueblos indígenas de los Altos de Chiapas,mixta,0.8838695436828513,1.0,0.6666666666666666,0.4,10,d37 d38 d39 d17 d42,16.592700000046534
+Embeddings,presas hidroeléctricas en el río Grijalva,mixta,0.8838695436828513,1.0,0.6666666666666666,0.4,10,d50 d22 d05 d04 d19,21.867400000019188
+Embeddings,bebidas tradicionales de maíz y cacao,mixta,0.9146628058302255,1.0,1.0,0.6,10,d46 d26 d47 d48 d41,18.72030000004088
+Embeddings,escritores chiapanecos,mixta,1.0,1.0,1.0,0.4,10,d45 d44 d10 d40 d47,19.554100000050312
+Embeddings,ave de plumaje verde sagrada para los mayas,mixta,0.7098097413968655,1.0,1.0,0.4,10,d27 d24 d14 d42 d35,18.763600000056613
+Embeddings,tala de árboles y pérdida de bosques,mixta,0.938506417451168,1.0,0.6666666666666666,0.4,10,d33 d17 d19 d34 d27,19.982099999992897
+Híbrido (solo RRF),EZLN,lexica,0.8609101556836468,1.0,0.3333333333333333,0.2,10,d43 d50 d14 d40 d19,28.130699999906028
+Híbrido (solo RRF),UNACH,lexica,0.9828422279067397,1.0,1.0,0.4,10,d53 d06 d44 d14 d07,28.24509999993552
+Híbrido (solo RRF),Montes Azules,lexica,0.6309297535714575,0.5,1.0,0.2,10,d05 d18 d04 d15 d01,28.74480000002677
+Híbrido (solo RRF),Tren Maya,lexica,1.0,1.0,1.0,0.2,10,d51 d38 d07 d06 d16,25.63339999994696
+Híbrido (solo RRF),Coffea arabica denominación de origen,lexica,0.6309297535714575,0.5,1.0,0.2,10,d52 d47 d42 d36 d35,24.846099999990656
+Híbrido (solo RRF),Bonampak y Yaxchilán,lexica,1.0,1.0,1.0,0.4,10,d06 d07 d10 d42 d36,25.860500000021602
+Híbrido (solo RRF),temblor muy fuerte en la costa del Pacífico,semantica,0.6309297535714575,0.5,1.0,0.2,10,d21 d29 d30 d28 d17,22.58649999998852
+Híbrido (solo RRF),montaña que explotó y dejó pueblos bajo la ceniza,semantica,0.9173194127129571,1.0,0.5,0.2,10,d21 d02 d30 d18 d05,26.700399999981528
+Híbrido (solo RRF),felino con manchas más grande del continente,semantica,0.6309297535714575,0.5,1.0,0.2,10,d28 d25 d26 d08 d32,26.87479999997322
+Híbrido (solo RRF),enfermedades que contagian los mosquitos,semantica,1.0,1.0,1.0,0.4,10,d31 d32 d14 d54 d13,22.936200000003737
+Híbrido (solo RRF),computadoras que aprenden a partir de ejemplos,semantica,0.8111673483283784,1.0,1.0,0.8,10,d54 d60 d55 d57 d56,22.847500000011678
+Híbrido (solo RRF),aguardiente artesanal usado en rituales indígenas,semantica,0.6309297535714575,0.5,1.0,0.2,10,d38 d41 d35 d39 d37,25.735800000006748
+Híbrido (solo RRF),zonas arqueológicas mayas en la selva,mixta,0.794577869778481,1.0,0.6666666666666666,0.8,10,d02 d06 d38 d16 d08,28.283399999963876
+Híbrido (solo RRF),pueblos indígenas de los Altos de Chiapas,mixta,0.8838695436828513,1.0,0.6666666666666666,0.4,10,d37 d38 d39 d17 d42,24.978799999985313
+Híbrido (solo RRF),presas hidroeléctricas en el río Grijalva,mixta,1.0,1.0,1.0,0.6,10,d50 d22 d01 d23 d19,31.12640000006195
+Híbrido (solo RRF),bebidas tradicionales de maíz y cacao,mixta,1.0,1.0,1.0,0.6,10,d46 d41 d48 d16 d50,23.072299999967072
+Híbrido (solo RRF),escritores chiapanecos,mixta,1.0,1.0,1.0,0.4,10,d44 d45 d01 d39 d43,23.85679999997592
+Híbrido (solo RRF),ave de plumaje verde sagrada para los mayas,mixta,1.0,1.0,1.0,0.4,10,d24 d27 d19 d14 d07,23.927800000024035
+Híbrido (solo RRF),tala de árboles y pérdida de bosques,mixta,0.8609101556836468,1.0,0.3333333333333333,0.2,10,d33 d26 d34 d27 d19,23.58079999999063
+Híbrido RRF + CE,EZLN,lexica,0.8609101556836468,1.0,0.3333333333333333,0.2,10,d43 d19 d07 d21 d50,103.1055999999353
+Híbrido RRF + CE,UNACH,lexica,0.9173194127129571,1.0,0.5,0.2,10,d53 d07 d06 d01 d23,95.78190000001996
+Híbrido RRF + CE,Montes Azules,lexica,1.0,1.0,1.0,0.2,10,d18 d05 d15 d01 d14,101.89939999997932
+Híbrido RRF + CE,Tren Maya,lexica,1.0,1.0,1.0,0.2,10,d51 d06 d07 d16 d08,89.28389999994124
+Híbrido RRF + CE,Coffea arabica denominación de origen,lexica,1.0,1.0,1.0,0.2,10,d47 d41 d42 d48 d35,101.42689999997856
+Híbrido RRF + CE,Bonampak y Yaxchilán,lexica,1.0,1.0,1.0,0.4,10,d06 d07 d42 d47 d01,94.82259999992948
+Híbrido RRF + CE,temblor muy fuerte en la costa del Pacífico,semantica,1.0,1.0,1.0,0.2,10,d29 d47 d19 d30 d14,96.42199999996137
+Híbrido RRF + CE,montaña que explotó y dejó pueblos bajo la ceniza,semantica,0.9173194127129571,1.0,0.5,0.2,10,d21 d16 d18 d19 d05,80.42820000002848
+Híbrido RRF + CE,felino con manchas más grande del continente,semantica,0.43067655807339306,0.25,1.0,0.2,10,d08 d26 d13 d25 d06,84.06809999996767
+Híbrido RRF + CE,enfermedades que contagian los mosquitos,semantica,1.0,1.0,1.0,0.4,10,d32 d31 d24 d13 d27,95.12619999998151
+Híbrido RRF + CE,computadoras que aprenden a partir de ejemplos,semantica,0.8573632719235804,1.0,0.75,0.6,10,d55 d54 d57 d58 d56,97.32129999997596
+Híbrido RRF + CE,aguardiente artesanal usado en rituales indígenas,semantica,1.0,1.0,1.0,0.2,10,d41 d42 d35 d06 d40,91.10440000006292
+Híbrido RRF + CE,zonas arqueológicas mayas en la selva,mixta,0.985645752110898,1.0,0.8333333333333334,1.0,10,d06 d02 d08 d16 d07,96.91900000007081
+Híbrido RRF + CE,pueblos indígenas de los Altos de Chiapas,mixta,0.7515939636280409,1.0,0.6666666666666666,0.4,10,d37 d42 d39 d06 d38,90.08080000000973
+Híbrido RRF + CE,presas hidroeléctricas en el río Grijalva,mixta,1.0,1.0,1.0,0.6,10,d50 d22 d01 d11 d23,89.88380000005236
+Híbrido RRF + CE,bebidas tradicionales de maíz y cacao,mixta,0.9467676761267002,1.0,0.6666666666666666,0.4,10,d46 d41 d47 d35 d16,91.21060000006764
+Híbrido RRF + CE,escritores chiapanecos,mixta,0.9197207891481876,1.0,1.0,0.4,10,d44 d43 d45 d40 d10,91.15150000002359
+Híbrido RRF + CE,ave de plumaje verde sagrada para los mayas,mixta,0.9828422279067397,1.0,1.0,0.4,10,d24 d07 d27 d06 d14,89.89309999992656
+Híbrido RRF + CE,tala de árboles y pérdida de bosques,mixta,0.938506417451168,1.0,0.6666666666666666,0.4,10,d33 d18 d05 d34 d19,86.53509999999187

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+scraping/cache_html/
+reporte/*.aux
+reporte/*.log
+reporte/*.out
+reporte/*.toc
+resultados/servidor.log
+reporte/*.pdf

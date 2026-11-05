@@ -1,0 +1,26 @@
+{
+ "_nota": "Relevancia graduada: 3 = el documento trata del tema, 2 = lo trata en parte, 1 = lo menciona. Juicios hechos leyendo el texto de cada documento.",
+ "consultas": [
+  {"q": "EZLN",                                   "tipo": "lexica",    "rel": {"d43": 3, "d38": 1, "d17": 1}},
+  {"q": "UNACH",                                  "tipo": "lexica",    "rel": {"d53": 3, "d44": 1}},
+  {"q": "Montes Azules",                          "tipo": "lexica",    "rel": {"d18": 3}},
+  {"q": "Tren Maya",                              "tipo": "lexica",    "rel": {"d51": 3}},
+  {"q": "Coffea arabica denominación de origen",  "tipo": "lexica",    "rel": {"d47": 3}},
+  {"q": "Bonampak y Yaxchilán",                   "tipo": "lexica",    "rel": {"d06": 3, "d07": 3}},
+
+  {"q": "temblor muy fuerte en la costa del Pacífico",        "tipo": "semantica", "rel": {"d29": 3}},
+  {"q": "montaña que explotó y dejó pueblos bajo la ceniza",   "tipo": "semantica", "rel": {"d21": 3, "d20": 1}},
+  {"q": "felino con manchas más grande del continente",        "tipo": "semantica", "rel": {"d25": 3}},
+  {"q": "enfermedades que contagian los mosquitos",           "tipo": "semantica", "rel": {"d31": 3, "d32": 3}},
+  {"q": "computadoras que aprenden a partir de ejemplos",     "tipo": "semantica", "rel": {"d55": 3, "d60": 2, "d54": 2, "d56": 1}},
+  {"q": "aguardiente artesanal usado en rituales indígenas",  "tipo": "semantica", "rel": {"d41": 3}},
+
+  {"q": "zonas arqueológicas mayas en la selva",      "tipo": "mixta", "rel": {"d02": 3, "d06": 3, "d07": 3, "d08": 3, "d16": 1, "d17": 1}},
+  {"q": "pueblos indígenas de los Altos de Chiapas",  "tipo": "mixta", "rel": {"d37": 3, "d38": 3, "d03": 2}},
+  {"q": "presas hidroeléctricas en el río Grijalva",  "tipo": "mixta", "rel": {"d50": 3, "d22": 3, "d01": 2}},
+  {"q": "bebidas tradicionales de maíz y cacao",      "tipo": "mixta", "rel": {"d46": 3, "d41": 2, "d48": 1}},
+  {"q": "escritores chiapanecos",                     "tipo": "mixta", "rel": {"d44": 3, "d45": 3}},
+  {"q": "ave de plumaje verde sagrada para los mayas", "tipo": "mixta", "rel": {"d24": 3, "d27": 1}},
+  {"q": "tala de árboles y pérdida de bosques",       "tipo": "mixta", "rel": {"d33": 3, "d17": 1, "d18": 1}}
+ ]
+}

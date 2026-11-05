@@ -1,0 +1,61 @@
+id,titulo,categoria,palabras,url,revision,consultado
+d01,Cañón del Sumidero,turismo,376,https://es.wikipedia.org/wiki/Ca%C3%B1%C3%B3n_del_Sumidero,172643749,2026-11-05
+d02,Zona arqueológica de Palenque,turismo,351,https://es.wikipedia.org/wiki/Zona_arqueol%C3%B3gica_de_Palenque,175327324,2026-11-05
+d03,San Cristóbal de Las Casas,turismo,384,https://es.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas,175733748,2026-11-05
+d04,Parque nacional Lagunas de Montebello,turismo,394,https://es.wikipedia.org/wiki/Parque_nacional_Lagunas_de_Montebello,167234872,2026-11-05
+d05,Cascadas de Agua Azul,turismo,384,https://es.wikipedia.org/wiki/Cascadas_de_Agua_Azul,171359515,2026-11-05
+d06,Bonampak,turismo,528,https://es.wikipedia.org/wiki/Bonampak,175620989,2026-11-05
+d07,Yaxchilán,turismo,418,https://es.wikipedia.org/wiki/Yaxchil%C3%A1n,175621209,2026-11-05
+d08,Toniná,turismo,506,https://es.wikipedia.org/wiki/Tonin%C3%A1,175904207,2026-11-05
+d09,Chiapa de Corzo,turismo,356,https://es.wikipedia.org/wiki/Chiapa_de_Corzo,175728086,2026-11-05
+d10,Comitán de Domínguez,turismo,364,https://es.wikipedia.org/wiki/Comit%C3%A1n_de_Dom%C3%ADnguez,175445065,2026-11-05
+d11,Tuxtla Gutiérrez,turismo,405,https://es.wikipedia.org/wiki/Tuxtla_Guti%C3%A9rrez,175447129,2026-11-05
+d12,Tapachula de Córdova y Ordóñez,turismo,353,https://es.wikipedia.org/wiki/Tapachula,175697322,2026-11-05
+d13,Alouatta pigra,naturaleza,370,https://es.wikipedia.org/wiki/Alouatta_pigra,174362322,2026-11-05
+d14,Sima de las Cotorras,turismo,412,https://es.wikipedia.org/wiki/Sima_de_las_Cotorras,166436618,2026-11-05
+d15,Misol-Ha,turismo,366,https://es.wikipedia.org/wiki/Misol-Ha,174757733,2026-11-05
+d16,Izapa,turismo,418,https://es.wikipedia.org/wiki/Izapa,175670930,2026-11-05
+d17,Selva Lacandona,naturaleza,457,https://es.wikipedia.org/wiki/Selva_Lacandona,173199028,2026-11-05
+d18,Reserva de la biosfera Montes Azules,naturaleza,353,https://es.wikipedia.org/wiki/Reserva_de_la_biosfera_Montes_Azules,169449203,2026-11-05
+d19,Reserva de la Biósfera El Triunfo,naturaleza,393,https://es.wikipedia.org/wiki/Reserva_de_la_Biosfera_El_Triunfo,174870141,2026-11-05
+d20,Volcán Tacaná,naturaleza,393,https://es.wikipedia.org/wiki/Volc%C3%A1n_Tacan%C3%A1,175281558,2026-11-05
+d21,El Chichón,naturaleza,427,https://es.wikipedia.org/wiki/El_Chich%C3%B3n,175383485,2026-11-05
+d22,Río Grijalva,naturaleza,364,https://es.wikipedia.org/wiki/R%C3%ADo_Grijalva,174220219,2026-11-05
+d23,Río Usumacinta,naturaleza,392,https://es.wikipedia.org/wiki/R%C3%ADo_Usumacinta,174399923,2026-11-05
+d24,Pharomachrus mocinno,naturaleza,359,https://es.wikipedia.org/wiki/Pharomachrus_mocinno,175778135,2026-11-05
+d25,Panthera onca,naturaleza,445,https://es.wikipedia.org/wiki/Panthera_onca,175989251,2026-11-05
+d26,Tapirus bairdii,naturaleza,413,https://es.wikipedia.org/wiki/Tapirus_bairdii,171881569,2026-11-05
+d27,Ara macao,naturaleza,421,https://es.wikipedia.org/wiki/Ara_macao,174715933,2026-11-05
+d28,Crocodylus acutus,naturaleza,402,https://es.wikipedia.org/wiki/Crocodylus_acutus,175498341,2026-11-05
+d29,Terremoto de Chiapas de 2017,riesgos,360,https://es.wikipedia.org/wiki/Terremoto_de_Chiapas_de_2017,175786428,2026-11-05
+d30,Huracán Stan,riesgos,402,https://es.wikipedia.org/wiki/Hurac%C3%A1n_Stan,175442214,2026-11-05
+d31,Dengue,riesgos,412,https://es.wikipedia.org/wiki/Dengue,175686007,2026-11-05
+d32,Malaria,riesgos,371,https://es.wikipedia.org/wiki/Paludismo,175500442,2026-11-05
+d33,Deforestación,riesgos,374,https://es.wikipedia.org/wiki/Deforestaci%C3%B3n,175674306,2026-11-05
+d34,Sequía,riesgos,400,https://es.wikipedia.org/wiki/Sequ%C3%ADa,174691270,2026-11-05
+d35,Los Parachicos,cultura,453,https://es.wikipedia.org/wiki/Parachico,172643617,2026-11-05
+d36,Marimba,cultura,411,https://es.wikipedia.org/wiki/Marimba,175214962,2026-11-05
+d37,Pueblo tsotsil,cultura,447,https://es.wikipedia.org/wiki/Pueblo_tsotsil,176004492,2026-11-05
+d38,Pueblo tseltal,cultura,476,https://es.wikipedia.org/wiki/Pueblo_tseltal,174943587,2026-11-05
+d39,Lacandones,cultura,408,https://es.wikipedia.org/wiki/Lacandones,175570912,2026-11-05
+d40,Zoque (etnia),cultura,367,https://es.wikipedia.org/wiki/Zoque_%28etnia%29,174973747,2026-11-05
+d41,Pox,cultura,393,https://es.wikipedia.org/wiki/Pox,168813802,2026-11-05
+d42,Ámbar de Chiapas,cultura,380,https://es.wikipedia.org/wiki/%C3%81mbar_de_Chiapas,173245678,2026-11-05
+d43,Ejército Zapatista de Liberación Nacional,cultura,353,https://es.wikipedia.org/wiki/Ej%C3%A9rcito_Zapatista_de_Liberaci%C3%B3n_Nacional,175993169,2026-11-05
+d44,Rosario Castellanos,cultura,420,https://es.wikipedia.org/wiki/Rosario_Castellanos,176079894,2026-11-05
+d45,Jaime Sabines,cultura,494,https://es.wikipedia.org/wiki/Jaime_Sabines,175938551,2026-11-05
+d46,Tascalate,cultura,140,https://es.wikipedia.org/wiki/Tascalate,172643697,2026-11-05
+d47,Café de Chiapas,economia,629,https://es.wikipedia.org/wiki/Caf%C3%A9_de_Chiapas,172909337,2026-11-05
+d48,Theobroma cacao,economia,381,https://es.wikipedia.org/wiki/Theobroma_cacao,175801968,2026-11-05
+d49,Chicoasén,economia,162,https://es.wikipedia.org/wiki/Chicoas%C3%A9n,175292347,2026-11-05
+d50,Presa La Angostura,economia,354,https://es.wikipedia.org/wiki/Presa_La_Angostura,171360069,2026-11-05
+d51,Tren Maya,economia,398,https://es.wikipedia.org/wiki/Tren_Maya,175293915,2026-11-05
+d52,Soconusco,economia,356,https://es.wikipedia.org/wiki/Soconusco,176072615,2026-11-05
+d53,Universidad Autónoma de Chiapas,tecnologia,414,https://es.wikipedia.org/wiki/Universidad_Aut%C3%B3noma_de_Chiapas,173186861,2026-11-05
+d54,Inteligencia artificial,tecnologia,424,https://es.wikipedia.org/wiki/Inteligencia_artificial,176155933,2026-11-05
+d55,Aprendizaje automático,tecnologia,386,https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico,176151143,2026-11-05
+d56,Minería de datos,tecnologia,472,https://es.wikipedia.org/wiki/Miner%C3%ADa_de_datos,175301843,2026-11-05
+d57,Procesamiento de lenguajes naturales,tecnologia,485,https://es.wikipedia.org/wiki/Procesamiento_de_lenguajes_naturales,176063044,2026-11-05
+d58,Motor de búsqueda,tecnologia,386,https://es.wikipedia.org/wiki/Motor_de_b%C3%BAsqueda,176155161,2026-11-05
+d59,Robótica,tecnologia,354,https://es.wikipedia.org/wiki/Rob%C3%B3tica,176159493,2026-11-05
+d60,Red neuronal artificial,tecnologia,406,https://es.wikipedia.org/wiki/Red_neuronal_artificial,175719671,2026-11-05

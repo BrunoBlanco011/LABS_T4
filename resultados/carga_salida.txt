@@ -1,0 +1,34 @@
+servidor: {'ok': True, 'documentos': 60, 'dispositivo': 'cuda', 'pasajes_densos': 308, 'carga_ms': {'bm25': 13890.555199999995, 'denso': 26517.788699999983, 'hibrido': 3816.3602999999284}}
+bm25       1 usuarios  n=  300  p50=    11.8 ms  p95=    17.0 ms  rps=  80.3  errores=0
+bm25       5 usuarios  n=  300  p50=    25.2 ms  p95=    30.3 ms  rps= 193.8  errores=0
+bm25      10 usuarios  n=  300  p50=    50.0 ms  p95=    57.6 ms  rps= 194.1  errores=0
+bm25      25 usuarios  n=  300  p50=   126.4 ms  p95=   138.9 ms  rps= 192.5  errores=0
+bm25      50 usuarios  n=  500  p50=   258.5 ms  p95=   305.2 ms  rps= 188.0  errores=0
+denso      1 usuarios  n=  300  p50=    24.5 ms  p95=    35.2 ms  rps=  38.0  errores=0
+denso      5 usuarios  n=  300  p50=   101.2 ms  p95=   134.7 ms  rps=  46.7  errores=0
+denso     10 usuarios  n=  300  p50=   190.9 ms  p95=   209.9 ms  rps=  51.8  errores=0
+denso     25 usuarios  n=  300  p50=   490.9 ms  p95=   595.5 ms  rps=  48.7  errores=0
+denso     50 usuarios  n=  500  p50=   957.9 ms  p95=  1105.9 ms  rps=  50.3  errores=0
+hibrido    1 usuarios  n=  300  p50=    93.2 ms  p95=   103.3 ms  rps=  10.7  errores=0
+hibrido    5 usuarios  n=  300  p50=   372.8 ms  p95=   412.5 ms  rps=  13.2  errores=0
+hibrido   10 usuarios  n=  300  p50=   742.2 ms  p95=   787.5 ms  rps=  13.4  errores=0
+hibrido   25 usuarios  n=  300  p50=  1851.3 ms  p95=  1936.8 ms  rps=  13.4  errores=0
+hibrido   50 usuarios  n=  500  p50=  3670.8 ms  p95=  3742.1 ms  rps=  13.5  errores=0
+mixto     50 usuarios  n=  500  p50=  2030.3 ms  p95=  2499.8 ms  rps=  30.2  errores=0
+escenario  usuarios  peticiones  errores  p50_ms  p95_ms  p99_ms  media_ms  max_ms  servidor_p50_ms  duracion_s   rps
+     bm25         1         300        0    11.8    17.0    27.3      12.4    33.0              4.3         3.7  80.3
+     bm25         5         300        0    25.2    30.3    41.0      25.5    46.9             16.7         1.5 193.8
+     bm25        10         300        0    50.0    57.6    64.5      50.8    84.2             41.5         1.5 194.1
+     bm25        25         300        0   126.4   138.9   167.7     124.9   185.7            116.7         1.6 192.5
+     bm25        50         500        0   258.5   305.2   379.1     251.4   423.2            248.7         2.7 188.0
+    denso         1         300        0    24.5    35.2    40.7      26.3    82.4             16.8         7.9  38.0
+    denso         5         300        0   101.2   134.7   137.1     106.5   141.9             90.1         6.4  46.7
+    denso        10         300        0   190.9   209.9   219.5     190.4   230.2            180.1         5.8  51.8
+    denso        25         300        0   490.9   595.5   606.3     495.7   613.2            478.6         6.2  48.7
+    denso        50         500        0   957.9  1105.9  1126.0     944.9  1132.8            947.6         9.9  50.3
+  hibrido         1         300        0    93.2   103.3   108.3      93.8   116.3             84.8        28.2  10.7
+  hibrido         5         300        0   372.8   412.5   473.5     375.7   481.4            361.7        22.7  13.2
+  hibrido        10         300        0   742.2   787.5   809.3     738.2   849.2            730.8        22.5  13.4
+  hibrido        25         300        0  1851.3  1936.8  1966.2    1794.2  2079.2           1839.2        22.4  13.4
+  hibrido        50         500        0  3670.8  3742.1  3754.1    3520.1  3832.8           3659.4        37.0  13.5
+    mixto        50         500        0  2030.3  2499.8  2570.4    1451.6  2618.9           2007.9        16.5  30.2

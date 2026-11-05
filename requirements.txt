@@ -1,0 +1,15 @@
+# Backend y motores
+fastapi>=0.115
+uvicorn>=0.34
+numpy>=2.0
+spacy>=3.8            # + python -m spacy download es_core_news_sm
+sentence-transformers>=6.0
+torch>=2.6            # con CUDA si hay GPU; funciona tambien en CPU (mas lento)
+# Scraping
+requests>=2.32
+beautifulsoup4>=4.12
+truststore>=0.9       # opcional: usa los certificados del sistema (Windows)
+# Evaluacion, carga y graficas
+httpx>=0.28
+pandas>=2.2
+matplotlib>=3.9

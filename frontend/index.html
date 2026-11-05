@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Buscador Chiapas · 3 motores</title>
+<link rel="stylesheet" href="/static/estilos.css">
+</head>
+<body>
+<header class="cabecera">
+  <div class="envoltura">
+    <p class="sobretitulo">Minería de Datos · Tarea 4 Corte 2 · Integración de motores</p>
+    <h1>Buscador de Chiapas</h1>
+    <p class="sub" id="info-corpus">Cargando corpus…</p>
+  </div>
+</header>
+
+<main class="envoltura">
+  <form id="formulario" class="buscador" autocomplete="off">
+    <input id="consulta" type="search" placeholder="Escribe una consulta, p. ej. «felino con manchas más grande de América»" required maxlength="300">
+    <select id="modo" aria-label="Motor">
+      <option value="comparar">Comparar los 3</option>
+      <option value="bm25">BM25 (léxico)</option>
+      <option value="denso">Embeddings (semántico)</option>
+      <option value="hibrido">Híbrido RRF + cross-encoder</option>
+    </select>
+    <button type="submit">Buscar</button>
+  </form>
+
+  <div class="ejemplos" id="ejemplos"><span>Prueba:</span></div>
+
+  <p id="estado" class="estado" role="status"></p>
+  <section id="resultados" class="columnas"></section>
+</main>
+
+<dialog id="dialogo">
+  <article>
+    <header><h2 id="dlg-titulo"></h2><button id="dlg-cerrar" aria-label="Cerrar">×</button></header>
+    <p class="meta" id="dlg-meta"></p>
+    <div id="dlg-texto"></div>
+  </article>
+</dialog>
+
+<footer class="envoltura pie">Corpus extraído por web scraping de es.wikipedia.org (CC BY-SA 4.0). Backend FastAPI · Frontend HTML/CSS/JS sin dependencias.</footer>
+<script src="/static/app.js"></script>
+</body>
+</html>
